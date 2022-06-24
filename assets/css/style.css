@@ -188,12 +188,12 @@ h1, h2, h3, h4, h5, h6 {
 #home {
   width: 100%;
   height: 100vh;
-  background: url("../img/47577155_2118216564891970_1300613949468704768_n.png") top left;
+  background: url("../img/11218220_1115494355164201_8595923646178963797_n.jpg") top left;
   background-size:cover;
 }
 #home:before {
   content: "";
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(5, 13, 24, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
