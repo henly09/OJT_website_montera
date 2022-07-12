@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 #home .hero-container {
   position: relative;
   z-index: 2;
-  min-width: 300px;
+  min-width: 200px;
 }
 #home h1 {
   margin: 0 0 10px 0;
@@ -217,7 +217,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Courier New", Courier, monospace;
 }
 #home p span {
   color: #fff;
