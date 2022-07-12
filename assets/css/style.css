@@ -936,6 +936,11 @@ section {
   font-size: 13px;
   color: #eaebf0;
 }
+
+#footer .credits a:hover {
+  transition: 0.3s;
+} 
+
 @media (max-width: 1199px) {
   #footer {
     position: static;
