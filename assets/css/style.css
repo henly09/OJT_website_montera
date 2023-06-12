@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #home:before {
   content: "";
-  background: rgba(55, 69, 90, 0.1);
+  background: rgba(16, 18, 22, 0.6);
   position: absolute;
   bottom: 0;
   top: 0;
